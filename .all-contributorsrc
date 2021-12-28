@@ -580,6 +580,61 @@
       "contributions": [
         "test"
       ]
+    },
+    {
+      "login": "tomasvn",
+      "name": "tomasvn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17225564?v=4",
+      "profile": "https://github.com/tomasvn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lucasvribeiro",
+      "name": "Lucas Ribeiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12684816?v=4",
+      "profile": "http://www.lucasribeiro.dev",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "Bartek532",
+      "name": "Bartosz Zagrodzki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57185551?v=4",
+      "profile": "http://bartek532.github.io/portfolio",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mookkiah",
+      "name": "Mahendran Mookkiah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8975264?v=4",
+      "profile": "https://www.linkedin.com/in/mookkiah/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hkhattabii",
+      "name": "hkhattabii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54418529?v=4",
+      "profile": "https://github.com/hkhattabii",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Federico-Pomponii",
+      "name": "Federico Pomponii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6978411?v=4",
+      "profile": "https://github.com/Federico-Pomponii",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
