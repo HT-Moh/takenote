@@ -10,9 +10,10 @@ export default function initializeServer(router: Router) {
   const app = express()
   const isProduction = process.env.NODE_ENV === 'production'
   const origin = { origin: isProduction ? false : '*' }
-
+  const payloadLimit = process.env.PAYLOAD_LIMIT || '20mb'
   app.set('trust proxy', 1)
-  app.use(express.json())
+  app.use(express.json({ limit: payloadLimit }))
+  app.use(express.urlencoded({ limit: payloadLimit, extended: true }))
   app.use(cookieParser())
   app.use(cors(origin))
   app.use(helmet())
